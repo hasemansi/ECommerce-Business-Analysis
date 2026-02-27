@@ -77,3 +77,4 @@ CREATE TABLE returns (
     refund_amount DECIMAL(10,2),
     FOREIGN KEY (order_id) REFERENCES orders(order_id)
 );
+
