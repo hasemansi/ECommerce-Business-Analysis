@@ -1,0 +1,48 @@
+USE ecommerce_analytics;
+
+LOAD DATA LOCAL INFILE "C:/Users/hi/Downloads/regions (1).csv"
+INTO TABLE regions
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE "C:/Users/hi/Downloads/customers (1).csv"
+INTO TABLE customers
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE "C:/Users/hi/Downloads/products (1).csv"
+INTO TABLE products
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE "C:/Users/hi/Downloads/orders (1).csv"
+INTO TABLE orders
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE "C:/Users/hi/Downloads/order_items.csv"
+INTO TABLE order_items
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE "C:/Users/hi/Downloads/returns.csv"
+INTO TABLE returns
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+SELECT COUNT(*) FROM orders;
+SELECT COUNT(*) FROM order_items;
+SELECT COUNT(*) FROM customers;
+SELECT COUNT(*) FROM returns;

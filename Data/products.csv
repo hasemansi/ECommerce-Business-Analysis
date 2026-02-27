@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,unit_price,cost_price
+PROD00001,Product_1,Technology,Phones,2642.78,1816.78
+PROD00002,Product_2,Office Supplies,Binders,7191.33,4402.44
+PROD00003,Product_3,Furniture,Bookcases,3389.79,2390.77
+PROD00004,Product_4,Technology,Computers,883.72,697.05
+PROD00005,Product_5,Office Supplies,Binders,1980.37,1347.59
+PROD00006,Product_6,Furniture,Tables,3066.76,2283.08
+PROD00007,Product_7,Office Supplies,Storage,5919.72,3350.01
+PROD00008,Product_8,Office Supplies,Storage,2388.57,1569.13
+PROD00009,Product_9,Furniture,Tables,4727.47,3041.83
+PROD00010,Product_10,Technology,Accessories,2971.25,1785.81
+PROD00011,Product_11,Technology,Computers,1684.13,1040.73
+PROD00012,Product_12,Furniture,Tables,4101.86,3220.04
+PROD00013,Product_13,Furniture,Tables,757.17,604.08
+PROD00014,Product_14,Furniture,Bookcases,3843.14,2897.22
+PROD00015,Product_15,Technology,Computers,371.97,235.98
+PROD00016,Product_16,Technology,Computers,3216.1,2418.03
+PROD00017,Product_17,Furniture,Bookcases,2555.17,1996.91
+PROD00018,Product_18,Office Supplies,Storage,5591.26,3925.49
+PROD00019,Product_19,Technology,Phones,5518.92,4223.36
+PROD00020,Product_20,Office Supplies,Paper,488.96,313.65
+PROD00021,Product_21,Furniture,Bookcases,6466.95,4782.72
+PROD00022,Product_22,Office Supplies,Paper,941.03,613.0
+PROD00023,Product_23,Furniture,Bookcases,6648.75,4279.74
+PROD00024,Product_24,Furniture,Bookcases,2756.4,1873.53
+PROD00025,Product_25,Office Supplies,Paper,5146.78,4013.19
+PROD00026,Product_26,Technology,Accessories,3292.28,2230.46
+PROD00027,Product_27,Furniture,Tables,5461.61,4533.04
+PROD00028,Product_28,Technology,Computers,5273.39,3272.56
+PROD00029,Product_29,Furniture,Tables,6648.49,4190.66
+PROD00030,Product_30,Technology,Phones,2475.4,1662.0
+PROD00031,Product_31,Office Supplies,Binders,6069.66,3637.61
+PROD00032,Product_32,Office Supplies,Paper,3068.37,2320.47
+PROD00033,Product_33,Technology,Computers,2128.64,1541.28
+PROD00034,Product_34,Furniture,Chairs,2674.93,1781.22
+PROD00035,Product_35,Office Supplies,Paper,545.47,390.11
+PROD00036,Product_36,Furniture,Chairs,5513.29,4292.39
+PROD00037,Product_37,Furniture,Chairs,406.6,298.31
+PROD00038,Product_38,Technology,Computers,5637.2,3946.73
+PROD00039,Product_39,Office Supplies,Binders,3219.41,2281.0
+PROD00040,Product_40,Furniture,Chairs,5979.31,4416.2
+PROD00041,Product_41,Technology,Computers,832.38,547.08
+PROD00042,Product_42,Furniture,Chairs,6153.91,4042.6
+PROD00043,Product_43,Furniture,Chairs,3358.31,2028.69
+PROD00044,Product_44,Technology,Computers,4409.62,3233.92
+PROD00045,Product_45,Technology,Accessories,4887.41,3939.95
+PROD00046,Product_46,Furniture,Chairs,7167.21,4297.63
+PROD00047,Product_47,Office Supplies,Binders,1762.07,1339.19
+PROD00048,Product_48,Furniture,Bookcases,1391.06,793.76
+PROD00049,Product_49,Technology,Accessories,7158.48,4261.46
+PROD00050,Product_50,Office Supplies,Storage,6891.85,4392.59
+PROD00051,Product_51,Office Supplies,Storage,4284.91,3225.43
+PROD00052,Product_52,Technology,Computers,4196.96,2951.81
+PROD00053,Product_53,Furniture,Chairs,4474.93,2666.91
+PROD00054,Product_54,Office Supplies,Paper,765.41,548.69
+PROD00055,Product_55,Furniture,Chairs,5909.02,4282.7
+PROD00056,Product_56,Furniture,Tables,393.46,313.39
+PROD00057,Product_57,Furniture,Tables,7281.74,4215.74
+PROD00058,Product_58,Technology,Phones,1661.08,977.51
+PROD00059,Product_59,Furniture,Tables,2609.47,1454.97
+PROD00060,Product_60,Technology,Accessories,8168.04,4809.49
+PROD00061,Product_61,Furniture,Bookcases,1850.49,1290.77
+PROD00062,Product_62,Office Supplies,Storage,1421.73,889.6
+PROD00063,Product_63,Office Supplies,Binders,118.5,69.63
+PROD00064,Product_64,Technology,Phones,1746.51,1268.29
+PROD00065,Product_65,Furniture,Tables,2407.62,1945.97
+PROD00066,Product_66,Office Supplies,Binders,5658.37,4174.34
+PROD00067,Product_67,Office Supplies,Paper,4451.12,3617.67
+PROD00068,Product_68,Technology,Accessories,7023.95,4635.37
+PROD00069,Product_69,Technology,Accessories,4017.32,2235.41
+PROD00070,Product_70,Furniture,Chairs,2785.63,1986.36
+PROD00071,Product_71,Technology,Phones,5225.04,3180.41
+PROD00072,Product_72,Office Supplies,Paper,68.04,52.25
+PROD00073,Product_73,Furniture,Bookcases,811.0,578.14
+PROD00074,Product_74,Technology,Phones,4527.7,2597.25
+PROD00075,Product_75,Furniture,Tables,2212.17,1302.81
+PROD00076,Product_76,Office Supplies,Storage,6690.08,4773.63
+PROD00077,Product_77,Technology,Accessories,1490.58,1130.74
+PROD00078,Product_78,Furniture,Tables,4428.21,3667.56
+PROD00079,Product_79,Office Supplies,Binders,7641.6,4903.59
+PROD00080,Product_80,Technology,Phones,7327.39,4528.71
+PROD00081,Product_81,Furniture,Bookcases,995.79,627.04
+PROD00082,Product_82,Technology,Computers,2815.85,1897.39
+PROD00083,Product_83,Technology,Computers,481.79,344.75
+PROD00084,Product_84,Office Supplies,Binders,3884.99,2983.61
+PROD00085,Product_85,Office Supplies,Paper,4079.3,3233.47
+PROD00086,Product_86,Furniture,Chairs,5018.18,2873.62
+PROD00087,Product_87,Furniture,Bookcases,770.89,608.87
+PROD00088,Product_88,Technology,Accessories,1690.67,1121.18
+PROD00089,Product_89,Furniture,Bookcases,6147.0,3531.2
+PROD00090,Product_90,Office Supplies,Paper,4007.14,2923.41
+PROD00091,Product_91,Technology,Phones,1975.03,1641.16
+PROD00092,Product_92,Technology,Accessories,5010.84,4112.92
+PROD00093,Product_93,Furniture,Tables,5753.53,4455.65
+PROD00094,Product_94,Office Supplies,Storage,5269.69,3250.68
+PROD00095,Product_95,Furniture,Bookcases,7388.88,4899.48
+PROD00096,Product_96,Office Supplies,Binders,3221.63,2046.07
+PROD00097,Product_97,Office Supplies,Paper,4470.58,3470.61
+PROD00098,Product_98,Technology,Computers,1065.19,666.89
+PROD00099,Product_99,Furniture,Bookcases,2609.38,1668.4
+PROD00100,Product_100,Technology,Phones,2175.71,1595.25
+PROD00101,Product_101,Office Supplies,Storage,1156.41,662.58
+PROD00102,Product_102,Furniture,Chairs,6509.55,3989.69
+PROD00103,Product_103,Office Supplies,Storage,221.13,175.91
+PROD00104,Product_104,Technology,Accessories,4516.06,2611.04
+PROD00105,Product_105,Technology,Accessories,3103.58,1828.55
+PROD00106,Product_106,Office Supplies,Paper,5958.51,4441.7
+PROD00107,Product_107,Technology,Computers,2103.23,1290.99
+PROD00108,Product_108,Technology,Computers,1159.45,670.65
+PROD00109,Product_109,Office Supplies,Binders,3536.41,2002.95
+PROD00110,Product_110,Furniture,Chairs,5699.14,3167.17
+PROD00111,Product_111,Technology,Accessories,6905.0,4975.21
+PROD00112,Product_112,Furniture,Chairs,1813.02,1246.62
+PROD00113,Product_113,Technology,Phones,2918.7,2396.73
+PROD00114,Product_114,Technology,Computers,6063.1,4597.64
+PROD00115,Product_115,Office Supplies,Storage,5481.16,3320.35
+PROD00116,Product_116,Furniture,Bookcases,6167.97,3545.09
+PROD00117,Product_117,Office Supplies,Binders,6291.42,4554.28
+PROD00118,Product_118,Office Supplies,Storage,7544.67,4388.74
+PROD00119,Product_119,Furniture,Chairs,619.22,421.44
+PROD00120,Product_120,Furniture,Chairs,6784.91,3977.78
+PROD00121,Product_121,Technology,Accessories,1655.28,1243.45
+PROD00122,Product_122,Technology,Phones,5183.51,4279.64
+PROD00123,Product_123,Office Supplies,Storage,5366.57,3587.69
+PROD00124,Product_124,Technology,Phones,6732.87,4001.48
+PROD00125,Product_125,Technology,Phones,2070.42,1418.72
+PROD00126,Product_126,Furniture,Chairs,3731.37,2212.5
+PROD00127,Product_127,Office Supplies,Storage,5245.68,3371.01
+PROD00128,Product_128,Furniture,Tables,6689.08,3774.66
+PROD00129,Product_129,Office Supplies,Storage,1848.85,1207.97
+PROD00130,Product_130,Office Supplies,Paper,1812.48,1136.68
+PROD00131,Product_131,Office Supplies,Paper,6005.14,3985.43
+PROD00132,Product_132,Technology,Phones,5806.45,3258.12
+PROD00133,Product_133,Office Supplies,Paper,5749.85,3896.48
+PROD00134,Product_134,Office Supplies,Binders,3871.89,2604.07
+PROD00135,Product_135,Office Supplies,Paper,2238.18,1407.28
+PROD00136,Product_136,Technology,Phones,6667.85,4523.75
+PROD00137,Product_137,Office Supplies,Paper,692.36,441.41
+PROD00138,Product_138,Furniture,Bookcases,2055.49,1214.56
+PROD00139,Product_139,Office Supplies,Binders,5328.0,3424.38
+PROD00140,Product_140,Office Supplies,Paper,4551.42,3271.46
+PROD00141,Product_141,Furniture,Bookcases,2918.33,2364.52
+PROD00142,Product_142,Technology,Phones,8842.29,4917.86
+PROD00143,Product_143,Technology,Phones,2917.07,2423.46
+PROD00144,Product_144,Office Supplies,Storage,8007.43,4598.19
+PROD00145,Product_145,Office Supplies,Binders,5182.59,3310.18
+PROD00146,Product_146,Furniture,Chairs,5779.74,3922.08
+PROD00147,Product_147,Office Supplies,Binders,5123.59,3536.53
+PROD00148,Product_148,Technology,Accessories,3327.19,2756.83
+PROD00149,Product_149,Furniture,Bookcases,2857.5,1824.09
+PROD00150,Product_150,Furniture,Bookcases,2028.82,1433.39
+PROD00151,Product_151,Office Supplies,Paper,1218.02,856.27
+PROD00152,Product_152,Furniture,Tables,928.08,549.07
+PROD00153,Product_153,Technology,Computers,308.78,221.12
+PROD00154,Product_154,Technology,Phones,2332.98,1506.02
+PROD00155,Product_155,Technology,Computers,4379.02,3459.38
+PROD00156,Product_156,Office Supplies,Storage,5823.61,4623.01
+PROD00157,Product_157,Office Supplies,Binders,3534.36,2514.53
+PROD00158,Product_158,Office Supplies,Paper,8231.06,4887.77
+PROD00159,Product_159,Furniture,Chairs,2882.29,2039.42
+PROD00160,Product_160,Office Supplies,Paper,6608.69,4716.77
+PROD00161,Product_161,Technology,Phones,498.28,371.18
+PROD00162,Product_162,Technology,Accessories,1567.99,1224.43
+PROD00163,Product_163,Office Supplies,Binders,7063.37,4224.23
+PROD00164,Product_164,Furniture,Chairs,6550.76,4965.58
+PROD00165,Product_165,Office Supplies,Paper,1901.42,1121.57
+PROD00166,Product_166,Technology,Accessories,3814.32,2603.97
+PROD00167,Product_167,Office Supplies,Storage,5068.2,3286.51
+PROD00168,Product_168,Technology,Phones,6541.54,4725.44
+PROD00169,Product_169,Furniture,Bookcases,5650.86,3425.85
+PROD00170,Product_170,Technology,Accessories,518.05,399.5
+PROD00171,Product_171,Office Supplies,Binders,6895.04,4742.55
+PROD00172,Product_172,Furniture,Chairs,550.81,398.13
+PROD00173,Product_173,Technology,Accessories,6256.28,4953.14
+PROD00174,Product_174,Technology,Computers,3300.23,2544.15
+PROD00175,Product_175,Technology,Accessories,6706.37,4091.24
+PROD00176,Product_176,Furniture,Bookcases,7135.66,4448.67
+PROD00177,Product_177,Technology,Accessories,2130.21,1212.64
+PROD00178,Product_178,Technology,Computers,5405.52,4015.77
+PROD00179,Product_179,Furniture,Tables,3926.05,2758.35
+PROD00180,Product_180,Technology,Computers,288.65,235.3
+PROD00181,Product_181,Technology,Computers,1005.95,807.68
+PROD00182,Product_182,Furniture,Chairs,4028.0,2742.67
+PROD00183,Product_183,Technology,Computers,1956.33,1345.86
+PROD00184,Product_184,Furniture,Bookcases,4214.73,2773.26
+PROD00185,Product_185,Office Supplies,Storage,1652.75,998.22
+PROD00186,Product_186,Furniture,Bookcases,4539.03,3052.58
+PROD00187,Product_187,Technology,Accessories,5937.96,3340.46
+PROD00188,Product_188,Furniture,Chairs,5177.66,3238.92
+PROD00189,Product_189,Furniture,Chairs,5031.06,3634.97
+PROD00190,Product_190,Technology,Accessories,375.11,264.77
+PROD00191,Product_191,Technology,Accessories,2164.83,1506.43
+PROD00192,Product_192,Technology,Accessories,4006.09,3163.58
+PROD00193,Product_193,Technology,Accessories,2400.7,1714.33
+PROD00194,Product_194,Office Supplies,Binders,3682.97,2877.56
+PROD00195,Product_195,Office Supplies,Binders,6856.74,3811.2
+PROD00196,Product_196,Office Supplies,Storage,914.84,683.12
+PROD00197,Product_197,Furniture,Tables,6807.07,3787.35
+PROD00198,Product_198,Furniture,Chairs,4931.21,3301.84
+PROD00199,Product_199,Technology,Computers,4374.53,2637.54
+PROD00200,Product_200,Office Supplies,Storage,4551.72,2793.86
+PROD00201,Product_201,Furniture,Tables,3522.98,2146.42
+PROD00202,Product_202,Furniture,Chairs,1678.43,1127.8
+PROD00203,Product_203,Office Supplies,Paper,912.92,687.52
+PROD00204,Product_204,Office Supplies,Paper,4151.73,2688.5
+PROD00205,Product_205,Office Supplies,Binders,5432.81,3233.95
+PROD00206,Product_206,Technology,Phones,3414.74,2558.06
+PROD00207,Product_207,Furniture,Tables,849.84,628.7
+PROD00208,Product_208,Furniture,Bookcases,4449.26,2531.39
+PROD00209,Product_209,Technology,Computers,5446.82,3695.9
+PROD00210,Product_210,Office Supplies,Paper,2191.36,1438.72
+PROD00211,Product_211,Office Supplies,Paper,4494.24,2518.22
+PROD00212,Product_212,Office Supplies,Binders,6392.08,3905.35
+PROD00213,Product_213,Technology,Accessories,5284.18,3150.57
+PROD00214,Product_214,Furniture,Tables,6075.28,4034.05
+PROD00215,Product_215,Office Supplies,Paper,5737.49,4540.5
+PROD00216,Product_216,Office Supplies,Storage,2651.32,1660.18
+PROD00217,Product_217,Office Supplies,Paper,371.02,213.19
+PROD00218,Product_218,Furniture,Bookcases,1336.64,996.51
+PROD00219,Product_219,Technology,Phones,694.76,451.69
+PROD00220,Product_220,Furniture,Chairs,6307.58,4718.62
+PROD00221,Product_221,Furniture,Tables,5407.36,4487.21
+PROD00222,Product_222,Technology,Computers,3743.47,2367.89
+PROD00223,Product_223,Furniture,Chairs,3698.57,2320.25
+PROD00224,Product_224,Technology,Accessories,4856.38,3449.58
+PROD00225,Product_225,Office Supplies,Storage,2486.77,1773.8
+PROD00226,Product_226,Technology,Computers,2235.04,1632.07
+PROD00227,Product_227,Technology,Phones,6664.94,3806.28
+PROD00228,Product_228,Office Supplies,Storage,5015.88,3403.78
+PROD00229,Product_229,Office Supplies,Storage,6668.33,4378.91
+PROD00230,Product_230,Office Supplies,Paper,5631.86,3239.51
+PROD00231,Product_231,Technology,Accessories,4659.75,3823.32
+PROD00232,Product_232,Technology,Phones,6283.89,3909.15
+PROD00233,Product_233,Technology,Phones,260.02,157.24
+PROD00234,Product_234,Furniture,Tables,4728.9,3811.08
+PROD00235,Product_235,Technology,Accessories,1908.31,1510.47
+PROD00236,Product_236,Furniture,Tables,5115.28,3359.9
+PROD00237,Product_237,Technology,Phones,899.5,519.15
+PROD00238,Product_238,Office Supplies,Binders,4021.09,2782.16
+PROD00239,Product_239,Technology,Computers,3755.97,2121.27
+PROD00240,Product_240,Technology,Phones,927.18,674.11
+PROD00241,Product_241,Furniture,Chairs,5372.57,3493.74
+PROD00242,Product_242,Furniture,Tables,768.7,456.71
+PROD00243,Product_243,Technology,Computers,3905.76,2342.77
+PROD00244,Product_244,Technology,Accessories,1222.71,827.3
+PROD00245,Product_245,Technology,Computers,2012.17,1462.06
+PROD00246,Product_246,Technology,Phones,1743.65,1259.16
+PROD00247,Product_247,Furniture,Bookcases,3255.6,2144.57
+PROD00248,Product_248,Office Supplies,Binders,4472.32,3303.48
+PROD00249,Product_249,Office Supplies,Paper,5995.08,3786.08
+PROD00250,Product_250,Technology,Phones,5346.95,4000.57
+PROD00251,Product_251,Technology,Phones,3486.54,2239.44
+PROD00252,Product_252,Office Supplies,Storage,7211.98,4670.82
+PROD00253,Product_253,Furniture,Tables,5465.2,4215.33
+PROD00254,Product_254,Furniture,Chairs,2196.44,1448.42
+PROD00255,Product_255,Technology,Computers,1254.26,998.66
+PROD00256,Product_256,Furniture,Tables,1703.19,1263.05
+PROD00257,Product_257,Furniture,Tables,5848.93,3462.23
+PROD00258,Product_258,Technology,Computers,5128.8,3946.35
+PROD00259,Product_259,Furniture,Bookcases,759.44,449.34
+PROD00260,Product_260,Technology,Accessories,1703.55,1266.37
+PROD00261,Product_261,Furniture,Tables,1755.46,1029.16
+PROD00262,Product_262,Furniture,Tables,5984.88,4040.02
+PROD00263,Product_263,Technology,Computers,2408.25,1686.49
+PROD00264,Product_264,Furniture,Chairs,7026.07,4382.93
+PROD00265,Product_265,Technology,Accessories,576.97,411.55
+PROD00266,Product_266,Technology,Computers,589.36,378.98
+PROD00267,Product_267,Technology,Computers,1043.04,730.67
+PROD00268,Product_268,Furniture,Chairs,1840.19,1276.84
+PROD00269,Product_269,Office Supplies,Paper,379.55,311.15
+PROD00270,Product_270,Technology,Accessories,679.16,423.17
+PROD00271,Product_271,Furniture,Chairs,4728.38,3251.31
+PROD00272,Product_272,Furniture,Bookcases,6641.93,4932.35
+PROD00273,Product_273,Furniture,Chairs,4524.72,2824.66
+PROD00274,Product_274,Furniture,Tables,1093.81,643.6
+PROD00275,Product_275,Technology,Computers,2650.09,1597.72
+PROD00276,Product_276,Office Supplies,Storage,4188.38,3074.99
+PROD00277,Product_277,Technology,Phones,4968.28,3970.93
+PROD00278,Product_278,Furniture,Tables,2351.56,1607.19
+PROD00279,Product_279,Furniture,Bookcases,6999.2,4857.57
+PROD00280,Product_280,Technology,Computers,4581.7,3223.72
+PROD00281,Product_281,Office Supplies,Paper,2170.72,1385.07
+PROD00282,Product_282,Office Supplies,Binders,6338.12,4839.06
+PROD00283,Product_283,Technology,Accessories,1555.37,1014.53
+PROD00284,Product_284,Office Supplies,Paper,6231.9,4136.11
+PROD00285,Product_285,Office Supplies,Paper,7795.93,4747.58
+PROD00286,Product_286,Office Supplies,Binders,5713.83,4385.68
+PROD00287,Product_287,Office Supplies,Paper,3008.3,1713.51
+PROD00288,Product_288,Furniture,Tables,412.89,275.58
+PROD00289,Product_289,Office Supplies,Storage,782.87,485.75
+PROD00290,Product_290,Office Supplies,Binders,5738.03,4051.06
+PROD00291,Product_291,Furniture,Chairs,2494.05,1822.74
+PROD00292,Product_292,Office Supplies,Binders,3704.41,2487.09
+PROD00293,Product_293,Furniture,Tables,3871.27,2849.19
+PROD00294,Product_294,Office Supplies,Paper,317.35,217.92
+PROD00295,Product_295,Technology,Accessories,3153.19,2202.07
+PROD00296,Product_296,Office Supplies,Storage,6630.51,4623.45
+PROD00297,Product_297,Office Supplies,Binders,1107.48,673.23
+PROD00298,Product_298,Furniture,Tables,6794.24,4040.83
+PROD00299,Product_299,Furniture,Tables,4994.53,2988.78
+PROD00300,Product_300,Office Supplies,Binders,7772.36,4520.9
+PROD00301,Product_301,Office Supplies,Binders,192.15,152.45
+PROD00302,Product_302,Technology,Accessories,5998.97,4435.47
+PROD00303,Product_303,Furniture,Chairs,5820.98,4305.56
+PROD00304,Product_304,Furniture,Bookcases,1505.85,1030.67
+PROD00305,Product_305,Technology,Phones,593.77,349.21
+PROD00306,Product_306,Office Supplies,Paper,1183.89,749.61
+PROD00307,Product_307,Furniture,Tables,313.58,203.86
+PROD00308,Product_308,Furniture,Chairs,3234.5,1834.82
+PROD00309,Product_309,Technology,Computers,3184.08,2410.77
+PROD00310,Product_310,Office Supplies,Binders,5163.33,3880.56
+PROD00311,Product_311,Furniture,Chairs,4368.08,3262.97
+PROD00312,Product_312,Office Supplies,Storage,5369.92,3896.08
+PROD00313,Product_313,Office Supplies,Storage,5295.27,3007.56
+PROD00314,Product_314,Furniture,Tables,6925.58,4692.26
+PROD00315,Product_315,Office Supplies,Binders,1436.66,818.71
+PROD00316,Product_316,Furniture,Chairs,5912.23,3942.47
+PROD00317,Product_317,Furniture,Bookcases,2850.82,2099.99
+PROD00318,Product_318,Furniture,Bookcases,6095.73,3508.31
+PROD00319,Product_319,Office Supplies,Storage,2656.6,1802.49
+PROD00320,Product_320,Office Supplies,Paper,1484.39,907.84
+PROD00321,Product_321,Office Supplies,Paper,4294.59,2490.41
+PROD00322,Product_322,Office Supplies,Storage,7264.75,4322.68
+PROD00323,Product_323,Furniture,Bookcases,771.58,577.03
+PROD00324,Product_324,Technology,Computers,1742.75,1435.31
+PROD00325,Product_325,Technology,Computers,6933.47,4826.7
+PROD00326,Product_326,Office Supplies,Paper,3033.96,2405.2
+PROD00327,Product_327,Furniture,Tables,5920.65,3566.94
+PROD00328,Product_328,Furniture,Chairs,2502.55,1426.92
+PROD00329,Product_329,Furniture,Bookcases,2327.87,1864.59
+PROD00330,Product_330,Office Supplies,Binders,1491.54,1195.46
+PROD00331,Product_331,Technology,Accessories,3143.76,1783.56
+PROD00332,Product_332,Office Supplies,Paper,4190.3,2682.89
+PROD00333,Product_333,Technology,Phones,5343.89,3885.98
+PROD00334,Product_334,Office Supplies,Binders,3852.01,2958.93
+PROD00335,Product_335,Office Supplies,Storage,6945.32,4739.5
+PROD00336,Product_336,Furniture,Tables,3318.7,2433.52
+PROD00337,Product_337,Technology,Computers,1766.05,1090.47
+PROD00338,Product_338,Technology,Accessories,7382.61,4108.6
+PROD00339,Product_339,Furniture,Chairs,4697.89,3670.47
+PROD00340,Product_340,Furniture,Bookcases,7540.17,4818.78
+PROD00341,Product_341,Office Supplies,Storage,1654.55,976.18
+PROD00342,Product_342,Furniture,Chairs,324.89,253.27
+PROD00343,Product_343,Technology,Phones,2900.92,2233.06
+PROD00344,Product_344,Furniture,Chairs,7053.27,4475.47
+PROD00345,Product_345,Office Supplies,Storage,3379.38,1957.56
+PROD00346,Product_346,Office Supplies,Binders,8529.46,4857.69
+PROD00347,Product_347,Furniture,Chairs,5434.46,4379.2
+PROD00348,Product_348,Furniture,Tables,2281.89,1280.7
+PROD00349,Product_349,Furniture,Chairs,109.83,71.29
+PROD00350,Product_350,Technology,Accessories,3736.61,2802.76
+PROD00351,Product_351,Office Supplies,Storage,6082.97,4941.31
+PROD00352,Product_352,Office Supplies,Paper,6238.37,4214.42
+PROD00353,Product_353,Technology,Accessories,7700.4,4912.91
+PROD00354,Product_354,Technology,Phones,7748.52,4709.64
+PROD00355,Product_355,Office Supplies,Binders,546.48,305.77
+PROD00356,Product_356,Technology,Computers,5554.01,3467.13
+PROD00357,Product_357,Furniture,Bookcases,5580.45,3212.56
+PROD00358,Product_358,Technology,Computers,1205.02,789.42
+PROD00359,Product_359,Technology,Accessories,4534.42,3057.1
+PROD00360,Product_360,Technology,Accessories,4456.22,2825.84
+PROD00361,Product_361,Technology,Accessories,6009.45,4721.65
+PROD00362,Product_362,Office Supplies,Binders,2382.49,1768.49
+PROD00363,Product_363,Office Supplies,Storage,2390.23,1650.58
+PROD00364,Product_364,Technology,Accessories,1508.17,1211.16
+PROD00365,Product_365,Furniture,Bookcases,7881.18,4539.32
+PROD00366,Product_366,Office Supplies,Storage,3313.99,2349.57
+PROD00367,Product_367,Furniture,Tables,3546.48,2255.12
+PROD00368,Product_368,Technology,Accessories,1730.72,1023.23
+PROD00369,Product_369,Office Supplies,Storage,4552.39,2715.22
+PROD00370,Product_370,Technology,Computers,1799.44,1450.9
+PROD00371,Product_371,Furniture,Chairs,1489.4,888.04
+PROD00372,Product_372,Furniture,Chairs,8335.02,4736.74
+PROD00373,Product_373,Technology,Phones,3957.68,2590.52
+PROD00374,Product_374,Furniture,Bookcases,2884.75,1780.27
+PROD00375,Product_375,Furniture,Tables,2647.44,1736.34
+PROD00376,Product_376,Technology,Computers,2852.65,1726.96
+PROD00377,Product_377,Furniture,Tables,413.72,263.32
+PROD00378,Product_378,Furniture,Chairs,6471.33,4511.22
+PROD00379,Product_379,Office Supplies,Binders,4343.44,3401.92
+PROD00380,Product_380,Technology,Computers,3052.24,2174.78
+PROD00381,Product_381,Office Supplies,Paper,2381.7,1475.76
+PROD00382,Product_382,Technology,Phones,6964.09,3976.49
+PROD00383,Product_383,Office Supplies,Storage,2217.71,1388.43
+PROD00384,Product_384,Technology,Computers,6471.98,4774.43
+PROD00385,Product_385,Furniture,Chairs,992.36,574.93
+PROD00386,Product_386,Furniture,Bookcases,1387.5,1007.23
+PROD00387,Product_387,Technology,Computers,5720.8,4526.05
+PROD00388,Product_388,Office Supplies,Binders,4049.02,2273.21
+PROD00389,Product_389,Furniture,Bookcases,6876.46,4477.31
+PROD00390,Product_390,Office Supplies,Binders,4661.79,2840.02
+PROD00391,Product_391,Office Supplies,Binders,3945.53,2687.85
+PROD00392,Product_392,Office Supplies,Paper,5996.28,4790.79
+PROD00393,Product_393,Furniture,Bookcases,5942.78,4064.68
+PROD00394,Product_394,Office Supplies,Paper,6721.78,4892.77
+PROD00395,Product_395,Technology,Computers,3039.76,2265.62
+PROD00396,Product_396,Office Supplies,Binders,4708.81,2712.98
+PROD00397,Product_397,Technology,Phones,2971.82,2389.91
+PROD00398,Product_398,Technology,Phones,5002.59,2896.21
+PROD00399,Product_399,Technology,Phones,5253.28,3715.65
+PROD00400,Product_400,Office Supplies,Storage,3390.39,2631.61
+PROD00401,Product_401,Furniture,Chairs,7218.32,4933.5
+PROD00402,Product_402,Technology,Phones,3067.61,2229.96
+PROD00403,Product_403,Furniture,Bookcases,4252.06,2966.44
+PROD00404,Product_404,Technology,Computers,5977.95,4198.11
+PROD00405,Product_405,Office Supplies,Paper,8577.07,4929.46
+PROD00406,Product_406,Office Supplies,Paper,6454.7,3796.42
+PROD00407,Product_407,Technology,Computers,7925.11,4846.69
+PROD00408,Product_408,Furniture,Chairs,8031.27,4821.3
+PROD00409,Product_409,Technology,Accessories,3213.93,1852.82
+PROD00410,Product_410,Technology,Accessories,1098.2,813.78
+PROD00411,Product_411,Technology,Computers,5770.68,3913.12
+PROD00412,Product_412,Office Supplies,Storage,2758.53,1777.19
+PROD00413,Product_413,Furniture,Chairs,1040.28,752.21
+PROD00414,Product_414,Furniture,Tables,2329.12,1934.25
+PROD00415,Product_415,Office Supplies,Storage,7380.17,4277.67
+PROD00416,Product_416,Furniture,Tables,5397.73,4065.43
+PROD00417,Product_417,Office Supplies,Storage,493.71,278.58
+PROD00418,Product_418,Technology,Accessories,6144.84,4514.28
+PROD00419,Product_419,Technology,Computers,3277.5,2058.03
+PROD00420,Product_420,Technology,Computers,3799.66,2602.13
+PROD00421,Product_421,Office Supplies,Binders,4987.11,3101.84
+PROD00422,Product_422,Furniture,Bookcases,6798.77,4023.37
+PROD00423,Product_423,Technology,Computers,3085.81,2516.76
+PROD00424,Product_424,Technology,Accessories,4440.86,2518.66
+PROD00425,Product_425,Technology,Phones,5321.96,3946.54
+PROD00426,Product_426,Furniture,Chairs,8292.82,4964.69
+PROD00427,Product_427,Office Supplies,Storage,761.82,442.76
+PROD00428,Product_428,Furniture,Tables,6116.83,4464.1
+PROD00429,Product_429,Furniture,Bookcases,3538.0,2216.53
+PROD00430,Product_430,Office Supplies,Binders,2147.7,1229.89
+PROD00431,Product_431,Furniture,Tables,1213.88,972.97
+PROD00432,Product_432,Furniture,Tables,5970.65,3553.97
+PROD00433,Product_433,Technology,Computers,2958.42,1658.92
+PROD00434,Product_434,Office Supplies,Binders,3291.62,2173.96
+PROD00435,Product_435,Furniture,Bookcases,5034.19,3635.94
+PROD00436,Product_436,Furniture,Chairs,3500.82,2470.71
+PROD00437,Product_437,Technology,Computers,461.1,364.42
+PROD00438,Product_438,Office Supplies,Storage,3765.08,2540.41
+PROD00439,Product_439,Furniture,Chairs,5735.1,3558.57
+PROD00440,Product_440,Technology,Accessories,4080.4,3183.31
+PROD00441,Product_441,Office Supplies,Paper,4502.03,2902.4
+PROD00442,Product_442,Office Supplies,Paper,1010.76,657.23
+PROD00443,Product_443,Technology,Accessories,3948.96,2332.08
+PROD00444,Product_444,Technology,Accessories,4004.6,3325.99
+PROD00445,Product_445,Office Supplies,Binders,6427.39,4742.97
+PROD00446,Product_446,Furniture,Tables,3847.52,2294.23
+PROD00447,Product_447,Technology,Phones,6654.2,4158.74
+PROD00448,Product_448,Technology,Computers,7561.03,4755.54
+PROD00449,Product_449,Furniture,Tables,118.07,84.98
+PROD00450,Product_450,Office Supplies,Storage,6489.08,4197.23
+PROD00451,Product_451,Technology,Phones,5658.74,3443.83
+PROD00452,Product_452,Furniture,Tables,4906.2,3281.89
+PROD00453,Product_453,Office Supplies,Binders,5429.95,3771.59
+PROD00454,Product_454,Furniture,Tables,5168.34,3611.9
+PROD00455,Product_455,Furniture,Tables,5974.43,4864.69
+PROD00456,Product_456,Furniture,Chairs,146.94,91.68
+PROD00457,Product_457,Furniture,Bookcases,1083.55,741.41
+PROD00458,Product_458,Furniture,Tables,5760.28,4636.54
+PROD00459,Product_459,Furniture,Chairs,2318.72,1473.21
+PROD00460,Product_460,Office Supplies,Binders,4153.88,2669.64
+PROD00461,Product_461,Office Supplies,Binders,7375.24,4980.54
+PROD00462,Product_462,Furniture,Bookcases,1840.21,1415.58
+PROD00463,Product_463,Furniture,Chairs,5287.34,3450.35
+PROD00464,Product_464,Office Supplies,Paper,3285.32,2100.06
+PROD00465,Product_465,Office Supplies,Storage,3800.03,2363.7
+PROD00466,Product_466,Office Supplies,Storage,3524.62,2187.38
+PROD00467,Product_467,Technology,Accessories,2871.4,1930.52
+PROD00468,Product_468,Furniture,Tables,6290.31,4311.16
+PROD00469,Product_469,Office Supplies,Paper,2127.76,1266.48
+PROD00470,Product_470,Technology,Phones,1676.42,1273.5
+PROD00471,Product_471,Office Supplies,Storage,1524.76,990.1
+PROD00472,Product_472,Technology,Accessories,7148.73,4112.95
+PROD00473,Product_473,Technology,Accessories,6042.23,4014.81
+PROD00474,Product_474,Office Supplies,Paper,2745.67,2032.39
+PROD00475,Product_475,Office Supplies,Binders,2620.86,1748.53
+PROD00476,Product_476,Furniture,Chairs,4943.43,3497.82
+PROD00477,Product_477,Office Supplies,Binders,705.22,566.49
+PROD00478,Product_478,Technology,Phones,5395.87,3062.63
+PROD00479,Product_479,Furniture,Tables,5377.89,3552.18
+PROD00480,Product_480,Furniture,Chairs,8323.56,4690.42
+PROD00481,Product_481,Office Supplies,Paper,4816.75,3268.33
+PROD00482,Product_482,Technology,Computers,1755.62,1245.6
+PROD00483,Product_483,Furniture,Tables,6673.93,4573.64
+PROD00484,Product_484,Technology,Computers,8315.31,4935.69
+PROD00485,Product_485,Office Supplies,Storage,5706.37,4037.79
+PROD00486,Product_486,Office Supplies,Storage,2990.63,2214.95
+PROD00487,Product_487,Furniture,Bookcases,3458.87,2692.73
+PROD00488,Product_488,Office Supplies,Binders,7309.48,4524.59
+PROD00489,Product_489,Office Supplies,Storage,6756.87,3762.36
+PROD00490,Product_490,Office Supplies,Binders,1181.07,688.1
+PROD00491,Product_491,Office Supplies,Binders,4629.85,3187.41
+PROD00492,Product_492,Technology,Computers,1714.36,1019.83
+PROD00493,Product_493,Office Supplies,Storage,2123.66,1455.59
+PROD00494,Product_494,Furniture,Chairs,3810.15,2451.97
+PROD00495,Product_495,Technology,Phones,3980.48,2432.86
+PROD00496,Product_496,Office Supplies,Paper,859.45,497.76
+PROD00497,Product_497,Technology,Computers,8350.25,4940.84
+PROD00498,Product_498,Furniture,Chairs,3770.39,3053.25
+PROD00499,Product_499,Office Supplies,Binders,7051.77,4287.51
+PROD00500,Product_500,Technology,Accessories,1737.55,979.97
